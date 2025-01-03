@@ -10,9 +10,10 @@ This is a simple online shop application built using Django and Docker. It suppo
 - REST API endpoints using Django REST Framework
 
 ## Installation
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online_shop.git
+   git clone https://github.com/Mohammadsajjad-Rahmani/online_shop.git
    cd online_shop
 
 ## Usage
