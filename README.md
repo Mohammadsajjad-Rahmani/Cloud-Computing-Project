@@ -1,6 +1,6 @@
 # Online Shop Project
 
-This is a simple online shop application built using Django and Docker. It supports basic CRUD operations and integrates with PostgreSQL for data storage.
+This is a simple online shop application built using Django and Docker. It supports basic CRUD operations and integrates with MYSQL for data storage.
 
 ## Features
 
@@ -13,7 +13,7 @@ This is a simple online shop application built using Django and Docker. It suppo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohammadsajjad-Rahmani/online_shop.git
+   git clone https://github.com/Mohammadsajjad-Rahmani/Cloud-Computing-Project.git
    cd online_shop
 
 ## Usage
