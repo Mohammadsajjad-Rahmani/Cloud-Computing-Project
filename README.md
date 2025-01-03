@@ -24,4 +24,4 @@ This is a simple online shop application built using Django and Docker. It suppo
 ## Usage
 
 - Visit `/admin` to manage the app.
-- Use API endpoints like `/api/products/` to interact with the backend.
+- Use API endpoints like `/api/products/` and `/api/products/<id>` to interact with the backend.
