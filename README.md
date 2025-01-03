@@ -18,7 +18,6 @@ This is a simple online shop application built using Django and Docker. It suppo
    sudo docker-compose -f docker-compose.dev.yml up --build -d
    sudo docker exec -it online_shop_app bash
    python manage.py migrate
-   python manage.py runserver
 
 
 
