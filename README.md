@@ -14,7 +14,7 @@ This is a simple online shop application built using Django and Docker. It suppo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mohammadsajjad-Rahmani/Cloud-Computing-Project.git
-   cd online_shop
+   cd Cloud-Computing-Project
 
 ## Usage
 
